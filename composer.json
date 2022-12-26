@@ -1,0 +1,15 @@
+{
+  "name": "zzzzz/php-framework",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "zedan",
+      "email": "zedamohamed144@gmail.com"
+    }
+  ],
+  "require": {}
+}
